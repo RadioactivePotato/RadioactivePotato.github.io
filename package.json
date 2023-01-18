@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/RadioactivePotato/reactjs-profile",
+  "homepage": "https://github.com/RadioactivePotato/RadioactivePotato.github.io",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://radioactivepotato.github.io/reactjs-profile'",
+    "build-gh": "parcel build --public-url 'https://radioactivepotato.github.io'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
