@@ -32,11 +32,9 @@ const description =
  */
 const skillsList = [
   "HTML5",
-  "Javascript",
   "Python",
-  "ReactJS",
-  "",
-  "",
+  "Javascript",
+  "React.JS",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Not a bug, a feature.";
+  "My excuse for errors: Not a bug, a feature.";
 
 const About = () => {
   return (

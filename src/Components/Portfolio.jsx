@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Google",
+    title: "Discord",
     description:
-      "placeholder",
-    url: "https://google.com",
+      "Radioactive Potato#5030",
+    url: "https://discord.com/users/1007668866731757671",
   },
   {
-    title: "Google",
+    title: "Reddit",
     description:
-      "placeholder",
-    url: "https://google.com",
+      "u/FuzzyFanta724",
+    url: "https://reddit.com/u/FuzzyFanta724",
   },
   {
-    title: "Google",
+    title: "Replit",
     description:
-      "placeholder",
-    url: "https://google.com",
+      "@RadioactivePotato",
+    url: "https://replit.com/@RadioactivePotato",
   },
   {
     title: "Google",
