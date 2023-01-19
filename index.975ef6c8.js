@@ -27182,7 +27182,7 @@ var _mosaicSvgDefault = parcelHelpers.interopDefault(_mosaicSvg);
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a novice programmer who can use HTML5, Javasript, and currently learning Python and React.JS";
+ */ const description = "I'm a novice programmer who can use HTML5, Javascript, and currently learning Python and React.JS";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
